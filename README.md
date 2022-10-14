@@ -5,7 +5,7 @@
 
 * Utilized Ruby (Sinatra controller) for the backend and React for the frontend
 
-* Customized Memes using Pixel Studio for NFT assets
+* Executed with CRUD to allow buying and selling one-of-a-kind Memes using Pixel Studio for NFT assets
 
 * Styled in Bootstrap and in-line CSS 
 <br/>  
