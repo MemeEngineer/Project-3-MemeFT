@@ -23,7 +23,7 @@ Memeft.create(title: "Oregano", price: 150, creator: "MemeGod", owner: "MFTeez N
 Memeft.create(title: "Pizza Rat", price: 1_000, creator: "MemeGod", owner: "Sir. Digo", sale: true, user_id: sir.id, src: "https://miro.medium.com/max/512/1*aCUoPNyo27C8J4MbiwgvDw.png")
 Memeft.create(title: "Pizza Time", price: 5_000, creator: "Marvel Studios", owner: "MemeGod", sale: true, user_id: memeGod.id, src: "https://miro.medium.com/max/1600/1*mtjh6-Ya85OWKkU8RInM6A.png")
 Memeft.create(title: "Snackintosh", price: 400, creator: "MemeGod", owner: "Sir. Digo", sale: true, user_id: sir.id, src: "https://miro.medium.com/max/256/1*3ZmNKX3YJKQlZw0mrADsFA.png")
-Memeft.create(title: "The Big Pinapple", price: 100, creator: "MemeGod", owner: "MemeGod", sale: true, user_id: memeGod.id, src: "https://miro.medium.com/max/256/1*d7pDcoNW0SvkfgkWONY2jQ.png")
+Memeft.create(title: "The Big Pineapple", price: 100, creator: "MemeGod", owner: "MemeGod", sale: true, user_id: memeGod.id, src: "https://miro.medium.com/max/256/1*d7pDcoNW0SvkfgkWONY2jQ.png")
 Memeft.create(title: "Whole Pi", price: 500, creator: "MemeGod", owner: "Sir. Digo", sale: true, user_id: sir.id, src: "https://miro.medium.com/max/256/1*1Rl5YxWEMJoSwz-tvGmvxw.png")
 Memeft.create(title: "Chelsea", price: 1_000, creator: "MFTeez Nutz", owner: "MFTeez Nutz", sale: false, user_id: nutz.id, src: "https://miro.medium.com/max/160/1*pqDEyvFYlkhRnKUzgBJODQ.png")
 Memeft.create(title: "Bob", price: 150, creator: "Sir. Digo", owner: "MFTeez Nutz", sale: true, user_id: nutz.id, src: "https://miro.medium.com/max/160/1*cpiW0FlC2nPOSXoJ_V6LDQ.png")
